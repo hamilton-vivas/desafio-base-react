@@ -1,0 +1,8 @@
+.text {
+    background-color: burlywood;
+    padding: 20px;
+    width: 500px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
